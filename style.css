@@ -3,12 +3,13 @@
     padding: 0%;
 }
 .cabecalho {
-    background-color: antiquewhite;
+    background-color:rgb(255, 255, 255);
     color: rgb(0, 0, 0);
     display: flex;
     justify-content: space-around;
-    padding: 10px 0%;
-    font-size: 24px;
+    align-items: center;
+    padding: 20px 0%;
+    font-size: 30px;
 }
 .cabecalho-imagem {
     width: 20%;
@@ -16,5 +17,25 @@
 }
 .cabecalho-lista-item {
     display: inline-block;
-    margin: 50px 25px;
+    margin: 10px 30px;
+    color: rgb(0, 0, 0);
 }
+.sabaka-titulo {
+    width: 1264px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.conteudo-sabaka {
+    font-size: 25px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    display: inline-block;
+    justify-content: center;
+    padding: 30px 20%;
+    
+    
+}
+
